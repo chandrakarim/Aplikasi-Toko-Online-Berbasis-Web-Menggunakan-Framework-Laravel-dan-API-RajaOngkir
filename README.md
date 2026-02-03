@@ -80,8 +80,8 @@ Sistem ini dirancang untuk membantu proses penjualan produk secara online mulai 
 
 ### 1️⃣ Clone atau Salin Project
 ```bash
-git clone https://github.com/username/toko-online-laravel.git
-cd toko-online-laravel
+git https://github.com/chandrakarim/Aplikasi-Toko-Online-Berbasis-Web-Menggunakan-Framework-Laravel-dan-API-RajaOngkir.git
+cd Aplikasi-Toko-Online-Berbasis-Web-Menggunakan-Framework-Laravel-dan-API-RajaOngkir
 ```
 ### 2️⃣ Install Dependency Laravel
 ```bash
@@ -176,3 +176,35 @@ RAJAONGKIR_BASE_URL=https://api.rajaongkir.com/starter
 
 Aplikasi Toko Online ini diharapkan dapat membantu proses penjualan dan pengelolaan transaksi secara online dengan lebih efektif dan efisien.
 Integrasi API RajaOngkir memungkinkan sistem menghitung ongkos kirim secara otomatis dan akurat.
+
+* Example Produk
+
+![CP_produk](https://raw.githubusercontent.com/chandrakarim/Aplikasi-Toko-Online-Berbasis-Web-Menggunakan-Framework-Laravel-dan-API-RajaOngkir/main/CP_produk.png)
+
+* Example Keranjang
+
+![CP_keranjang](https://raw.githubusercontent.com/chandrakarim/Aplikasi-Toko-Online-Berbasis-Web-Menggunakan-Framework-Laravel-dan-API-RajaOngkir/main/CP_keranjang.png)
+
+* Example Checkout User
+
+![CP_checkout](https://raw.githubusercontent.com/chandrakarim/Aplikasi-Toko-Online-Berbasis-Web-Menggunakan-Framework-Laravel-dan-API-RajaOngkir/main/CP_checkout.png)
+
+* Example Order Berhasil
+
+![CP_Order_berhasil](https://raw.githubusercontent.com/chandrakarim/Aplikasi-Toko-Online-Berbasis-Web-Menggunakan-Framework-Laravel-dan-API-RajaOngkir/main/CP_Order_berhasil.png)
+
+* Example Riwayat Pesanan
+
+![CP_riwayat_pesanan](https://raw.githubusercontent.com/chandrakarim/Aplikasi-Toko-Online-Berbasis-Web-Menggunakan-Framework-Laravel-dan-API-RajaOngkir/main/CP_riwayat_pesanan.png)
+
+* Example Admin Dashboard
+
+![CP_Dashboard_Admin](https://raw.githubusercontent.com/chandrakarim/Aplikasi-Toko-Online-Berbasis-Web-Menggunakan-Framework-Laravel-dan-API-RajaOngkir/main/CP_Dashboard_Admin.png)
+
+* Example Detail Pesanan User
+
+![CP_detail_pesanan_user](https://raw.githubusercontent.com/chandrakarim/Aplikasi-Toko-Online-Berbasis-Web-Menggunakan-Framework-Laravel-dan-API-RajaOngkir/main/CP_detail_pesanan_user.png)
+
+* Example Pesanan Perlu Di Kirim
+
+![CP_Data_pesanan_perlu_dikirim](https://raw.githubusercontent.com/chandrakarim/Aplikasi-Toko-Online-Berbasis-Web-Menggunakan-Framework-Laravel-dan-API-RajaOngkir/main/CP_Data_pesanan_perlu_dikirim.png)
