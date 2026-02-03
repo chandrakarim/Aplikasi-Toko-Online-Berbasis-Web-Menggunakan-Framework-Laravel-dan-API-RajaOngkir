@@ -203,7 +203,7 @@ Integrasi API RajaOngkir memungkinkan sistem menghitung ongkos kirim secara otom
 
 * Example Detail Pesanan User
 
-![CP_detail_pesanan_user](https://raw.githubusercontent.com/chandrakarim/Aplikasi-Toko-Online-Berbasis-Web-Menggunakan-Framework-Laravel-dan-API-RajaOngkir/main/CP_detail_pesanan_user.png)
+![CP_Detail_pesanan_user](https://raw.githubusercontent.com/chandrakarim/Aplikasi-Toko-Online-Berbasis-Web-Menggunakan-Framework-Laravel-dan-API-RajaOngkir/main/CP_Detail_pesanan_user.png)
 
 * Example Pesanan Perlu Di Kirim
 
