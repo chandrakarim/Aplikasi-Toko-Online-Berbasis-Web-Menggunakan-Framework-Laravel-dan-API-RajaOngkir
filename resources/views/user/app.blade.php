@@ -170,9 +170,9 @@
               <h3 class="footer-heading mb-4">Contact Info</h3>
               <ul class="list-unstyled">
                 
-                <li class="address">waingapu , Sumba Timur , Nusa Tenggara Timur (NTT)</li>
-                <li class="phone"><a href="tel://23923929210">+62 852 3613 5592</a></li>
-                <li class="email">AdminTokoMerlyn@gmail.com</li>
+                <li class="address">{{ $alamat_toko->detail }}</li>
+                <li class="phone"><a href="tel://23923929210">{{ $user->no_tlp }}</a></li>
+                <li class="email">{{ $user->email }}</li>
               </ul>
             </div>
 
