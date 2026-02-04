@@ -131,8 +131,8 @@ Buka website https://rajaongkir.com
 
 ### 2️⃣ Simpan API Key ke File .env
 ```bash
-RAJAONGKIR_API_KEY=apikey_anda_disini
-RAJAONGKIR_BASE_URL=https://api.rajaongkir.com/starter
+KOMERCE_API_KEY=apikey_anda_disini
+KOMERCE_BASE_URL=https://rajaongkir.komerce.id/api/v1
 ```
 
 ### 3. Proses Penghitungan Ongkos Kirim
